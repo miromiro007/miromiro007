@@ -16,7 +16,7 @@ I'm a **Software Engineer from Tunisia 🇹🇳** (ENICarthage) who builds **com
 - 🏗️ I design **scalable web platforms** with **ASP.NET Core (.NET 8)** and **Angular**, using Clean Architecture, CQRS and DDD
 - 🤖 I add **real AI** to applications: **Machine Learning** models, **Deep Learning** and **RAG chatbots** that answer from your own documents
 - ⚙️ I ship with **Docker, CI/CD and automated tests**, because code isn't done until it runs reliably in production
-- 🔭 Currently building: an **AI assistant (RAG + LLMs)** for Tunisian administrative procedures
+- 🔭 Currently building: a **bilingual (French + Arabic) RAG assistant** on Tunisian labour law and CNSS, with hybrid search, reranking and cited answers
 - 💼 **Open to** Full Stack / Backend / AI Engineer roles and freelance projects
 
 ---
@@ -37,6 +37,8 @@ I'm a **Software Engineer from Tunisia 🇹🇳** (ENICarthage) who builds **com
 | Project | Description | Stack |
 |---|---|---|
 | 🚚 **LogiFee** | Multimodal transport pricing & invoicing SaaS: quotes, shipments, invoices, payments, AI price prediction | .NET 8 · Angular 20 · Flutter · GraphQL · PostgreSQL · Redis · XGBoost |
+| ⚖️ **Tunisian Admin Assistant** | RAG assistant on Tunisian labour law & CNSS (French + Arabic): hybrid search, reranking, answers with citations, SSE streaming, 2-model evaluation (RAGAS), tracing with Langfuse | Python · LLMs · RAG · React · Docker · RAGAS · Langfuse |
+| 🌦️ **Weather ML Pipeline** | End-to-end data pipeline: collects hourly weather from the Open-Meteo API, cleans it, stores it in PostgreSQL, runs EDA and exports a leak-free, reproducible train/test dataset to predict rain in the next hour | Python · Pandas · PostgreSQL · Docker · Matplotlib · pytest |
 | 🏙️ [**SmartCity Platform**](https://github.com/miromiro007/Microservices-Smart-City) | Microservices exposing REST, SOAP, gRPC and GraphQL, orchestrated with Kubernetes | Docker · Kubernetes · gRPC · GraphQL |
 | 🔁 [**CI/CD Pipeline Automation**](https://github.com/miromiro007/DevOps-Project-) | End-to-end pipeline with monitoring and zero-downtime deployments | Jenkins · Docker · Prometheus · Grafana |
 | 🎓 [**Training Center Manager**](https://github.com/miromiro007/project_formation_node_express_js) | Full-stack platform for registrations, schedules and grades | Angular · Node.js · MongoDB · MySQL |
@@ -53,6 +55,9 @@ I'm a **Software Engineer from Tunisia 🇹🇳** (ENICarthage) who builds **com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" title="scikit-learn"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" title="pytest"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" title="Flask"/>
 </p>
@@ -62,6 +67,14 @@ I'm a **Software Engineer from Tunisia 🇹🇳** (ENICarthage) who builds **com
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
   <img src="https://img.shields.io/badge/Vector%20DBs-6E40C9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hybrid%20Search-6E40C9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Reranking-6E40C9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAGAS-6E40C9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Langfuse-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/EDA-337AB7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-337AB7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-337AB7?style=flat-square"/>
 </p>
 
 **⚙️ Backend**
